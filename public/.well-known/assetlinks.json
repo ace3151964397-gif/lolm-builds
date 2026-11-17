@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.ace3151964397.lolm",
+        "sha256_cert_fingerprints": ["49:3A:AB:83:0E:AA:8F:B9:1B:5F:F0:D2:5A:3C:C0:6B:8B:6F:A2:A4:0D:B2:8A:EB:6E:98:71:E6:B2:6B:81:2A"]
+      }
+    }]
