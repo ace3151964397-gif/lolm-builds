@@ -1,0 +1,9 @@
+# 依赖与临时文件
+node_modules/
+.edge-*/
+.chrome-*/
+*.log
+
+# 抓取产物（由 refresh.mjs 重新生成）
+data/
+public/api/

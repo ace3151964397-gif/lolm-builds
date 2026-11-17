@@ -1,0 +1,1764 @@
+{
+ "generatedAt": "2026-11-17T02:02:48.045Z",
+ "source": "Riot Data Dragon 16.22.1 zh_CN",
+ "champions": {
+  "aatrox": {
+   "name": "亚托克斯",
+   "titleZh": "暗裔剑魔",
+   "py": "yatuokesi",
+   "aliases": [
+    "剑魔"
+   ]
+  },
+  "ahri": {
+   "name": "阿狸",
+   "titleZh": "九尾妖狐",
+   "py": "ali",
+   "aliases": [
+    "狐狸",
+    "阿离"
+   ]
+  },
+  "akali": {
+   "name": "阿卡丽",
+   "titleZh": "离群之刺",
+   "py": "akali",
+   "aliases": []
+  },
+  "akshan": {
+   "name": "阿克尚",
+   "titleZh": "影哨",
+   "py": "akeshang",
+   "aliases": []
+  },
+  "alistar": {
+   "name": "阿利斯塔",
+   "titleZh": "牛头酋长",
+   "py": "alishita",
+   "aliases": [
+    "牛头",
+    "牛头人"
+   ]
+  },
+  "ambessa": {
+   "name": "安蓓萨",
+   "titleZh": "铁血狼母",
+   "py": "anbeisa",
+   "aliases": []
+  },
+  "amumu": {
+   "name": "阿木木",
+   "titleZh": "殇之木乃伊",
+   "py": "amumu",
+   "aliases": [
+    "木乃伊"
+   ]
+  },
+  "annie": {
+   "name": "安妮",
+   "titleZh": "黑暗之女",
+   "py": "anni",
+   "aliases": [
+    "火女"
+   ]
+  },
+  "ashe": {
+   "name": "艾希",
+   "titleZh": "寒冰射手",
+   "py": "aixi",
+   "aliases": [
+    "寒冰",
+    "寒冰射手"
+   ]
+  },
+  "aurelion-sol": {
+   "name": "奥瑞利安·索尔",
+   "titleZh": "铸星龙王",
+   "py": "aoruiliansuoer",
+   "aliases": [
+    "龙王",
+    "索尔"
+   ]
+  },
+  "aurora": {
+   "name": "阿萝拉",
+   "titleZh": "双界灵兔",
+   "py": "aoluola",
+   "aliases": []
+  },
+  "bard": {
+   "name": "巴德",
+   "titleZh": "星界游神",
+   "py": "bade",
+   "aliases": []
+  },
+  "blitzcrank": {
+   "name": "布里茨",
+   "titleZh": "蒸汽机器人",
+   "py": "bulici",
+   "aliases": [
+    "机器人"
+   ]
+  },
+  "brand": {
+   "name": "布兰德",
+   "titleZh": "复仇焰魂",
+   "py": "bulande",
+   "aliases": [
+    "火男"
+   ]
+  },
+  "braum": {
+   "name": "布隆",
+   "titleZh": "弗雷尔卓德之心",
+   "py": "bulong",
+   "aliases": []
+  },
+  "caitlyn": {
+   "name": "凯特琳",
+   "titleZh": "皮城女警",
+   "py": "kaitelin",
+   "aliases": [
+    "女警"
+   ]
+  },
+  "camille": {
+   "name": "卡蜜尔",
+   "titleZh": "青钢影",
+   "py": "kamier",
+   "aliases": [
+    "青钢影"
+   ]
+  },
+  "chogath": {
+   "name": "科加斯",
+   "titleZh": "虚空恐惧",
+   "py": "kejiasi",
+   "aliases": [
+    "大虫子"
+   ]
+  },
+  "corki": {
+   "name": "库奇",
+   "titleZh": "英勇投弹手",
+   "py": "kuqi",
+   "aliases": [
+    "飞机"
+   ]
+  },
+  "darius": {
+   "name": "德莱厄斯",
+   "titleZh": "诺克萨斯之手",
+   "py": "delaiosi",
+   "aliases": [
+    "诺手",
+    "诺克萨斯之手"
+   ]
+  },
+  "diana": {
+   "name": "黛安娜",
+   "titleZh": "皎月女神",
+   "py": "daianna",
+   "aliases": [
+    "皎月"
+   ]
+  },
+  "dr-mundo": {
+   "name": "蒙多医生",
+   "titleZh": "祖安狂人",
+   "py": "mengduo",
+   "aliases": [
+    "蒙多医生",
+    "医生"
+   ]
+  },
+  "draven": {
+   "name": "德莱文",
+   "titleZh": "荣耀行刑官",
+   "py": "delaiven",
+   "aliases": []
+  },
+  "ekko": {
+   "name": "艾克",
+   "titleZh": "时间刺客",
+   "py": "aike",
+   "aliases": []
+  },
+  "evelynn": {
+   "name": "伊芙琳",
+   "titleZh": "痛苦之拥",
+   "py": "yifulin",
+   "aliases": [
+    "寡妇"
+   ]
+  },
+  "ezreal": {
+   "name": "伊泽瑞尔",
+   "titleZh": "探险家",
+   "py": "yizairuier",
+   "aliases": [
+    "ez",
+    "探险家"
+   ]
+  },
+  "fiddlesticks": {
+   "name": "费德提克",
+   "titleZh": "远古恐惧",
+   "py": "feidetike",
+   "aliases": [
+    "稻草人"
+   ]
+  },
+  "fiora": {
+   "name": "菲奥娜",
+   "titleZh": "无双剑姬",
+   "py": "feiaona",
+   "aliases": [
+    "剑姬"
+   ]
+  },
+  "fizz": {
+   "name": "菲兹",
+   "titleZh": "潮汐海灵",
+   "py": "feizi",
+   "aliases": [
+    "小鱼人"
+   ]
+  },
+  "galio": {
+   "name": "加里奥",
+   "titleZh": "正义巨像",
+   "py": "jialiao",
+   "aliases": []
+  },
+  "garen": {
+   "name": "盖伦",
+   "titleZh": "德玛西亚之力",
+   "py": "gailun",
+   "aliases": [
+    "德玛",
+    "德玛西亚之力"
+   ]
+  },
+  "gnar": {
+   "name": "纳尔",
+   "titleZh": "迷失之牙",
+   "py": "naer",
+   "aliases": []
+  },
+  "gragas": {
+   "name": "古拉加斯",
+   "titleZh": "酒桶",
+   "py": "gulajiasi",
+   "aliases": [
+    "酒桶"
+   ]
+  },
+  "graves": {
+   "name": "格雷福斯",
+   "titleZh": "法外狂徒",
+   "py": "geileifusi",
+   "aliases": [
+    "男枪"
+   ]
+  },
+  "gwen": {
+   "name": "格温",
+   "titleZh": "灵罗娃娃",
+   "py": "gewen",
+   "aliases": []
+  },
+  "hecarim": {
+   "name": "赫卡里姆",
+   "titleZh": "战争之影",
+   "py": "hekalimu",
+   "aliases": [
+    "人马"
+   ]
+  },
+  "heimerdinger": {
+   "name": "黑默丁格",
+   "titleZh": "大发明家",
+   "py": "heimodingge",
+   "aliases": [
+    "大头",
+    "大发明家"
+   ]
+  },
+  "hwei": {
+   "name": "彗",
+   "titleZh": "异画师",
+   "py": "hui",
+   "aliases": [
+    "画师"
+   ]
+  },
+  "irelia": {
+   "name": "艾瑞莉娅",
+   "titleZh": "刀锋舞者",
+   "py": "airuiliya",
+   "aliases": [
+    "刀妹"
+   ]
+  },
+  "janna": {
+   "name": "迦娜",
+   "titleZh": "风暴之怒",
+   "py": "jiana",
+   "aliases": [
+    "风女"
+   ]
+  },
+  "jarvan-iv": {
+   "name": "嘉文四世",
+   "titleZh": "德玛西亚皇子",
+   "py": "jiawensishi",
+   "aliases": [
+    "皇子"
+   ]
+  },
+  "jax": {
+   "name": "贾克斯",
+   "titleZh": "武器大师",
+   "py": "jiakesi",
+   "aliases": [
+    "武器",
+    "武器大师"
+   ]
+  },
+  "jayce": {
+   "name": "杰斯",
+   "titleZh": "未来守护者",
+   "py": "jiesi",
+   "aliases": []
+  },
+  "jhin": {
+   "name": "烬",
+   "titleZh": "戏命师",
+   "py": "jin",
+   "aliases": [
+    "戏命师"
+   ]
+  },
+  "jinx": {
+   "name": "金克丝",
+   "titleZh": "暴走萝莉",
+   "py": "jinkesi",
+   "aliases": [
+    "爆爆"
+   ]
+  },
+  "ksante": {
+   "name": "奎桑提",
+   "titleZh": "纳祖芒荣耀",
+   "py": "kesangte",
+   "aliases": []
+  },
+  "kaisa": {
+   "name": "卡莎",
+   "titleZh": "虚空之女",
+   "py": "kasha",
+   "aliases": []
+  },
+  "kalista": {
+   "name": "卡莉丝塔",
+   "titleZh": "复仇之矛",
+   "py": "kalisita",
+   "aliases": [
+    "滑板鞋"
+   ]
+  },
+  "karma": {
+   "name": "卡尔玛",
+   "titleZh": "天启者",
+   "py": "kaerma",
+   "aliases": []
+  },
+  "kassadin": {
+   "name": "卡萨丁",
+   "titleZh": "虚空行者",
+   "py": "kasadin",
+   "aliases": []
+  },
+  "katarina": {
+   "name": "卡特琳娜",
+   "titleZh": "不祥之刃",
+   "py": "katelinna",
+   "aliases": [
+    "卡特"
+   ]
+  },
+  "kayle": {
+   "name": "凯尔",
+   "titleZh": "正义天使",
+   "py": "kaier",
+   "aliases": [
+    "天使"
+   ]
+  },
+  "kayn": {
+   "name": "凯隐",
+   "titleZh": "影流之镰",
+   "py": "kaiyin",
+   "aliases": []
+  },
+  "kennen": {
+   "name": "凯南",
+   "titleZh": "狂暴之心",
+   "py": "kainan",
+   "aliases": []
+  },
+  "khazix": {
+   "name": "卡兹克",
+   "titleZh": "虚空掠夺者",
+   "py": "kacike",
+   "aliases": [
+    "螳螂"
+   ]
+  },
+  "kindred": {
+   "name": "千珏",
+   "titleZh": "永猎双子",
+   "py": "qianjue",
+   "aliases": []
+  },
+  "kogmaw": {
+   "name": "克格莫",
+   "titleZh": "深渊巨口",
+   "py": "kegemo",
+   "aliases": [
+    "大嘴"
+   ]
+  },
+  "lee-sin": {
+   "name": "李青",
+   "titleZh": "盲僧",
+   "py": "liqing",
+   "aliases": [
+    "瞎子",
+    "盲僧"
+   ]
+  },
+  "leona": {
+   "name": "蕾欧娜",
+   "titleZh": "曙光女神",
+   "py": "leiouna",
+   "aliases": [
+    "日女",
+    "曙光"
+   ]
+  },
+  "lillia": {
+   "name": "莉莉娅",
+   "titleZh": "含羞蓓蕾",
+   "py": "liliya",
+   "aliases": []
+  },
+  "lissandra": {
+   "name": "丽桑卓",
+   "titleZh": "冰霜女巫",
+   "py": "lisangzhuo",
+   "aliases": [
+    "冰女"
+   ]
+  },
+  "lucian": {
+   "name": "卢锡安",
+   "titleZh": "圣枪游侠",
+   "py": "luxian",
+   "aliases": [
+    "奥巴马"
+   ]
+  },
+  "lulu": {
+   "name": "璐璐",
+   "titleZh": "仙灵女巫",
+   "py": "lulu",
+   "aliases": []
+  },
+  "lux": {
+   "name": "拉克丝",
+   "titleZh": "光辉女郎",
+   "py": "lakesi",
+   "aliases": [
+    "光辉",
+    "光辉女郎"
+   ]
+  },
+  "malphite": {
+   "name": "墨菲特",
+   "titleZh": "熔岩巨兽",
+   "py": "mofeite",
+   "aliases": [
+    "石头人"
+   ]
+  },
+  "maokai": {
+   "name": "茂凯",
+   "titleZh": "扭曲树精",
+   "py": "maokai",
+   "aliases": [
+    "大树"
+   ]
+  },
+  "master-yi": {
+   "name": "易",
+   "titleZh": "无极剑圣",
+   "py": "yidashi",
+   "aliases": [
+    "剑圣",
+    "易"
+   ]
+  },
+  "mel": {
+   "name": "梅尔",
+   "titleZh": "流光镜影",
+   "py": "meier",
+   "aliases": []
+  },
+  "milio": {
+   "name": "米利欧",
+   "titleZh": "明烛",
+   "py": "miliou",
+   "aliases": []
+  },
+  "miss-fortune": {
+   "name": "厄运小姐",
+   "titleZh": "赏金猎人",
+   "py": "eyunxiaojie",
+   "aliases": [
+    "赏金",
+    "女枪",
+    "mf"
+   ]
+  },
+  "mordekaiser": {
+   "name": "莫德凯撒",
+   "titleZh": "铁铠冥魂",
+   "py": "modekaisa",
+   "aliases": [
+    "铁男"
+   ]
+  },
+  "morgana": {
+   "name": "莫甘娜",
+   "titleZh": "堕落天使",
+   "py": "moganna",
+   "aliases": []
+  },
+  "nami": {
+   "name": "娜美",
+   "titleZh": "唤潮鲛姬",
+   "py": "namei",
+   "aliases": []
+  },
+  "nasus": {
+   "name": "内瑟斯",
+   "titleZh": "沙漠死神",
+   "py": "neisesi",
+   "aliases": [
+    "狗头"
+   ]
+  },
+  "nautilus": {
+   "name": "诺提勒斯",
+   "titleZh": "深海泰坦",
+   "py": "nuotileisi",
+   "aliases": [
+    "泰坦"
+   ]
+  },
+  "nidalee": {
+   "name": "奈德丽",
+   "titleZh": "狂野女猎手",
+   "py": "naideli",
+   "aliases": [
+    "豹女"
+   ]
+  },
+  "nilah": {
+   "name": "尼菈",
+   "titleZh": "不羁之悦",
+   "py": "nila",
+   "aliases": []
+  },
+  "nocturne": {
+   "name": "魔腾",
+   "titleZh": "永恒梦魇",
+   "py": "moteng",
+   "aliases": [
+    "梦魇"
+   ]
+  },
+  "norra": {
+   "name": "诺拉",
+   "titleZh": null,
+   "py": "nuola",
+   "aliases": []
+  },
+  "nunu-and-willump": {
+   "name": "努努和威朗普",
+   "titleZh": "雪原双子",
+   "py": "nunu",
+   "aliases": [
+    "雪人",
+    "努努"
+   ]
+  },
+  "olaf": {
+   "name": "奥拉夫",
+   "titleZh": "狂战士",
+   "py": "aolafu",
+   "aliases": [
+    "狂战士"
+   ]
+  },
+  "orianna": {
+   "name": "奥莉安娜",
+   "titleZh": "发条魔灵",
+   "py": "aoliana",
+   "aliases": [
+    "发条"
+   ]
+  },
+  "ornn": {
+   "name": "奥恩",
+   "titleZh": "山隐之焰",
+   "py": "aoen",
+   "aliases": []
+  },
+  "pantheon": {
+   "name": "潘森",
+   "titleZh": "不屈之枪",
+   "py": "pansen",
+   "aliases": []
+  },
+  "poppy": {
+   "name": "波比",
+   "titleZh": "圣锤之毅",
+   "py": "bobi",
+   "aliases": []
+  },
+  "pyke": {
+   "name": "派克",
+   "titleZh": "血港鬼影",
+   "py": "paike",
+   "aliases": []
+  },
+  "rakan": {
+   "name": "洛",
+   "titleZh": "幻翎",
+   "py": "luo",
+   "aliases": []
+  },
+  "rammus": {
+   "name": "拉莫斯",
+   "titleZh": "披甲龙龟",
+   "py": "lamosi",
+   "aliases": [
+    "龙龟"
+   ]
+  },
+  "rell": {
+   "name": "芮尔",
+   "titleZh": "镕铁少女",
+   "py": "ruier",
+   "aliases": []
+  },
+  "renekton": {
+   "name": "雷克顿",
+   "titleZh": "荒漠屠夫",
+   "py": "leikedun",
+   "aliases": [
+    "鳄鱼"
+   ]
+  },
+  "rengar": {
+   "name": "雷恩加尔",
+   "titleZh": "傲之追猎者",
+   "py": "leienjiaer",
+   "aliases": [
+    "狮子狗"
+   ]
+  },
+  "riven": {
+   "name": "锐雯",
+   "titleZh": "放逐之刃",
+   "py": "ruiwen",
+   "aliases": [
+    "放逐之刃"
+   ]
+  },
+  "rumble": {
+   "name": "兰博",
+   "titleZh": "机械公敌",
+   "py": "lanbo",
+   "aliases": []
+  },
+  "ryze": {
+   "name": "瑞兹",
+   "titleZh": "符文法师",
+   "py": "ruizi",
+   "aliases": [
+    "流浪法师"
+   ]
+  },
+  "samira": {
+   "name": "莎弥拉",
+   "titleZh": "沙漠玫瑰",
+   "py": "shamila",
+   "aliases": []
+  },
+  "senna": {
+   "name": "赛娜",
+   "titleZh": "涤魂圣枪",
+   "py": "saina",
+   "aliases": []
+  },
+  "seraphine": {
+   "name": "萨勒芬妮",
+   "titleZh": "星籁歌姬",
+   "py": "salefenni",
+   "aliases": []
+  },
+  "sett": {
+   "name": "瑟提",
+   "titleZh": "腕豪",
+   "py": "seti",
+   "aliases": [
+    "腕豪"
+   ]
+  },
+  "shen": {
+   "name": "慎",
+   "titleZh": "暮光之眼",
+   "py": "shen",
+   "aliases": []
+  },
+  "shyvana": {
+   "name": "希瓦娜",
+   "titleZh": "龙血武姬",
+   "py": "xiwana",
+   "aliases": [
+    "龙女"
+   ]
+  },
+  "singed": {
+   "name": "辛吉德",
+   "titleZh": "炼金术士",
+   "py": "xinjide",
+   "aliases": [
+    "炼金"
+   ]
+  },
+  "sion": {
+   "name": "赛恩",
+   "titleZh": "亡灵战神",
+   "py": "saien",
+   "aliases": [
+    "亡灵"
+   ]
+  },
+  "sivir": {
+   "name": "希维尔",
+   "titleZh": "战争女神",
+   "py": "xiweier",
+   "aliases": [
+    "轮子妈"
+   ]
+  },
+  "skarner": {
+   "name": "斯卡纳",
+   "titleZh": "上古领主",
+   "py": "sikana",
+   "aliases": [
+    "蝎子"
+   ]
+  },
+  "smolder": {
+   "name": "斯莫德",
+   "titleZh": "炽炎雏龙",
+   "py": "simode",
+   "aliases": [
+    "小火龙",
+    "斯摩德",
+    "小斯"
+   ]
+  },
+  "sona": {
+   "name": "娑娜",
+   "titleZh": "琴瑟仙女",
+   "py": "suona",
+   "aliases": [
+    "琴女"
+   ]
+  },
+  "soraka": {
+   "name": "索拉卡",
+   "titleZh": "众星之子",
+   "py": "suolaka",
+   "aliases": [
+    "奶妈",
+    "星妈"
+   ]
+  },
+  "swain": {
+   "name": "斯维因",
+   "titleZh": "诺克萨斯统领",
+   "py": "siweiyin",
+   "aliases": [
+    "乌鸦"
+   ]
+  },
+  "syndra": {
+   "name": "辛德拉",
+   "titleZh": "暗黑元首",
+   "py": "xindela",
+   "aliases": [
+    "球女"
+   ]
+  },
+  "taliyah": {
+   "name": "塔莉垭",
+   "titleZh": "岩雀",
+   "py": "taliya",
+   "aliases": [
+    "岩雀"
+   ]
+  },
+  "talon": {
+   "name": "泰隆",
+   "titleZh": "刀锋之影",
+   "py": "tailong",
+   "aliases": [
+    "男刀"
+   ]
+  },
+  "teemo": {
+   "name": "提莫",
+   "titleZh": "迅捷斥候",
+   "py": "timo",
+   "aliases": [
+    "提百万"
+   ]
+  },
+  "thresh": {
+   "name": "锤石",
+   "titleZh": "魂锁典狱长",
+   "py": "chuishi",
+   "aliases": [
+    "魂锁典狱长"
+   ]
+  },
+  "tristana": {
+   "name": "崔丝塔娜",
+   "titleZh": "麦林炮手",
+   "py": "cuisitana",
+   "aliases": [
+    "小炮"
+   ]
+  },
+  "tryndamere": {
+   "name": "泰达米尔",
+   "titleZh": "蛮族之王",
+   "py": "taidamier",
+   "aliases": [
+    "蛮王"
+   ]
+  },
+  "twisted-fate": {
+   "name": "崔斯特",
+   "titleZh": "卡牌大师",
+   "py": "cuisite",
+   "aliases": [
+    "卡牌",
+    "卡牌大师"
+   ]
+  },
+  "twitch": {
+   "name": "图奇",
+   "titleZh": "瘟疫之源",
+   "py": "tuqi",
+   "aliases": [
+    "老鼠"
+   ]
+  },
+  "urgot": {
+   "name": "厄加特",
+   "titleZh": "无畏战车",
+   "py": "ejiate",
+   "aliases": [
+    "螃蟹"
+   ]
+  },
+  "varus": {
+   "name": "韦鲁斯",
+   "titleZh": "惩戒之箭",
+   "py": "weilusi",
+   "aliases": []
+  },
+  "vayne": {
+   "name": "薇恩",
+   "titleZh": "暗夜猎手",
+   "py": "weien",
+   "aliases": [
+    "暗夜猎手"
+   ]
+  },
+  "veigar": {
+   "name": "维迦",
+   "titleZh": "邪恶小法师",
+   "py": "weijia",
+   "aliases": [
+    "小法"
+   ]
+  },
+  "velkoz": {
+   "name": "维克兹",
+   "titleZh": "虚空之眼",
+   "py": "weikezi",
+   "aliases": [
+    "大眼睛"
+   ]
+  },
+  "vex": {
+   "name": "薇古丝",
+   "titleZh": "愁云使者",
+   "py": "weigusi",
+   "aliases": []
+  },
+  "vi": {
+   "name": "蔚",
+   "titleZh": "皮城执法官",
+   "py": "wei",
+   "aliases": []
+  },
+  "viego": {
+   "name": "佛耶戈",
+   "titleZh": "破败之王",
+   "py": "foyego",
+   "aliases": [
+    "破败王"
+   ]
+  },
+  "viktor": {
+   "name": "维克托",
+   "titleZh": "奥术先驱",
+   "py": "weiketuo",
+   "aliases": [
+    "三只手"
+   ]
+  },
+  "vladimir": {
+   "name": "弗拉基米尔",
+   "titleZh": "猩红收割者",
+   "py": "fulajimier",
+   "aliases": [
+    "吸血鬼"
+   ]
+  },
+  "volibear": {
+   "name": "沃利贝尔",
+   "titleZh": "不灭狂雷",
+   "py": "wolibeier",
+   "aliases": [
+    "狗熊"
+   ]
+  },
+  "warwick": {
+   "name": "沃里克",
+   "titleZh": "祖安怒兽",
+   "py": "wolike",
+   "aliases": [
+    "狼人"
+   ]
+  },
+  "wukong": {
+   "name": "孙悟空",
+   "titleZh": "齐天大圣",
+   "py": "wukong",
+   "aliases": [
+    "猴子",
+    "齐天大圣"
+   ]
+  },
+  "xayah": {
+   "name": "霞",
+   "titleZh": "逆羽",
+   "py": "xia",
+   "aliases": []
+  },
+  "xin-zhao": {
+   "name": "赵信",
+   "titleZh": "德邦总管",
+   "py": "zhaoxin",
+   "aliases": [
+    "菊花信"
+   ]
+  },
+  "yasuo": {
+   "name": "亚索",
+   "titleZh": "疾风剑豪",
+   "py": "yasuo",
+   "aliases": [
+    "疾风剑豪"
+   ]
+  },
+  "yone": {
+   "name": "永恩",
+   "titleZh": "封魔剑魂",
+   "py": "yongen",
+   "aliases": []
+  },
+  "yunara": {
+   "name": "芸阿娜",
+   "titleZh": "不破之誓",
+   "py": "younala",
+   "aliases": []
+  },
+  "yuumi": {
+   "name": "悠米",
+   "titleZh": "魔法猫咪",
+   "py": "youmi",
+   "aliases": [
+    "猫"
+   ]
+  },
+  "zed": {
+   "name": "劫",
+   "titleZh": "影流之主",
+   "py": "jie",
+   "aliases": []
+  },
+  "zeri": {
+   "name": "泽丽",
+   "titleZh": "祖安花火",
+   "py": "zeli",
+   "aliases": []
+  },
+  "ziggs": {
+   "name": "吉格斯",
+   "titleZh": "爆破鬼才",
+   "py": "jigesi",
+   "aliases": [
+    "炸弹人"
+   ]
+  },
+  "zilean": {
+   "name": "基兰",
+   "titleZh": "时光守护者",
+   "py": "jilan",
+   "aliases": [
+    "时光",
+    "时光守护者"
+   ]
+  },
+  "zoe": {
+   "name": "佐伊",
+   "titleZh": "暮光星灵",
+   "py": "zuoyi",
+   "aliases": []
+  },
+  "zyra": {
+   "name": "婕拉",
+   "titleZh": "荆棘之兴",
+   "py": "jiela",
+   "aliases": [
+    "花女"
+   ]
+  }
+ },
+ "items": {
+  "Long Sword": "长剑",
+  "Eclipse": "蚀",
+  "Plated Steelcaps": "铁板靴",
+  "Sundered Sky": "裂空之刃",
+  "Serylda’s Grudge": "赛瑞尔达的怨恨",
+  "Death's Dance": "死亡之舞",
+  "Chempunk Chainsword": "链锯剑",
+  "Armored Advance": "装甲战靴",
+  "Chainlaced Crushers": "带链碾碎者",
+  "Amplifying Tome": "增幅典籍",
+  "Blackfire Torch": "黯炎火炬",
+  "Lich Bane": "巫妖之祸",
+  "Rabadon's Deathcap": "灭世者的死亡之帽",
+  "Zhonya's Hourglass": "秒表",
+  "Void Staff": "虚空之杖",
+  "Spellslinger's Shoes": "灵能使之靴",
+  "Hextech Rocketbelt": "海克斯科技火箭腰带",
+  "The Collector": "收集者",
+  "Gluttonous Greaves": "暴食胫甲",
+  "Mercurial Scimitar": "水银弯刀",
+  "Infinity Edge": "无尽之刃",
+  "Relic Shield": "圣物之盾",
+  "Bulwark of the Mountain": "山岳壁垒",
+  "Radiant Virtue": "光辉美德",
+  "Force of Nature": "自然之力",
+  "Black Cleaver": "黑色切割者",
+  "Sterak's Gage": "斯特拉克的挑战护手",
+  "Mercury's Treads": "水银之靴",
+  "Liandry's Torment": "兰德里的折磨",
+  "Thornmail": "荆棘之甲",
+  "Malignance": "残疫",
+  "Morellonomicon": "莫雷洛秘典",
+  "Kraken Slayer": "海妖杀手",
+  "Berserker's Greaves": "狂战士胫甲",
+  "Guinsoo's Rageblade": "鬼索的狂暴之刃",
+  "Blade of the Ruined King": "破败王者之刃",
+  "Mortal Reminder": "凡性的提醒",
+  "Runaan's Hurricane": "卢安娜的飓风",
+  "Gunmetal Greaves": "炮铜胫甲",
+  "Rylai's Crystal Scepter": "瑞莱的冰晶节杖",
+  "Stormsurge": "风暴狂涌",
+  "Spectral Sickle": "幽魂镰刀",
+  "Black Mist Scythe": "黑雾巨镰",
+  "Redemption": "救赎",
+  "Banshee's Veil": "女妖面纱",
+  "Knight's Vow": "骑士之誓",
+  "Mikael's Blessing": "救赎之角",
+  "Zeke's Convergence": "基克的聚合",
+  "Randuin's Omen": "兰顿之兆",
+  "Bloodletter's Curse": "放血者的诅咒",
+  "Locket of the Iron Solari": "钢铁烈阳之匣",
+  "Bloodthirster": "饮血剑",
+  "Divine Sunderer": "神圣分离者",
+  "Hullbreaker": "破舰者",
+  "Maw of Malmortius": "玛莫提乌斯之噬",
+  "Ruby Crystal": "红水晶",
+  "Heartsteel": "心之钢",
+  "Hollow Radiance": "璀璨回响",
+  "Kaenic Rookern": "败魔",
+  "Essence Reaver": "夺萃之镰",
+  "Spear of Shojin": "朔极之矛",
+  "Nashor's Tooth": "纳什之牙",
+  "Dusk and Dawn": "黄昏与黎明",
+  "Warmog's Armor": "狂徒铠甲",
+  "Titanic Hydra": "巨型九头蛇",
+  "Overlord's Bloodmail": "霸王血铠",
+  "Cryptbloom": "蜕生",
+  "Tear of the Goddess": "女神之泪",
+  "Muramana": "魔切",
+  "Trinity Force": "三相之力",
+  "Riftmaker": "峡谷制造者",
+  "Serpent's Fang": "巨蛇之牙",
+  "Guardian Angel": "守护天使",
+  "Rod of Ages": "时光之杖",
+  "Stridebreaker": "挺进破坏者",
+  "Wit's End": "智慧末刃",
+  "Fimbulwinter": "末日寒冬",
+  "Iceborn Gauntlet": "霜拳护手",
+  "Ionian Boots of Lucidity": "明朗之靴",
+  "Shurelya's Battlesong": "舒瑞娅的战歌",
+  "Ardent Censer": "炽热香炉",
+  "Imperial Mandate": "帝国指令",
+  "Crimson Lucidity": "猩红明朗",
+  "Frozen Heart": "冰霜之心",
+  "Youmuu's Ghostblade": "幽梦之灵",
+  "Galeforce": "狂风之力",
+  "Unending Despair": "无终恨意",
+  "Gargoyle Stoneplate": "石像鬼石板甲",
+  "Edge of Night": "夜之锋刃",
+  "Staff of Flowing Water": "流水法杖",
+  "sapphire-crystal": "蓝水晶",
+  "Seraph's Embrace": "炽天使之拥",
+  "Duskblade of Draktharr": "德拉克萨的暮刃",
+  "Luden's Echo": "卢登的回声",
+  "Sunfire Aegis": "日炎圣盾",
+  "Experimental Hexplate": "海克斯注力刚壁",
+  "Terminus": "界弓",
+  "Abyssal Mask": "深渊面具",
+  "Dead Man's Plate": "亡者的板甲",
+  "Goredrinker": "渴血战斧",
+  "Dagger": "短剑",
+  "Boots of Mana": "法力之靴",
+  "Immortal Boots": "不朽之靴",
+  "Boots of Dynamism": "灵动之靴",
+  "Armorcrusher Boots": "破甲之靴",
+  "Infinity Orb": "无限法球",
+  "Dominik’s Regards": "多米尼克领主的致意",
+  "Yordle Trap": "约德尔陷阱",
+  "Amaranth's Twinguard": "赤红双生守卫",
+  "Mantle of the Twelfth Hour": "十二时斗篷",
+  "Oceanid's Trident": "海妖三叉戟",
+  "Harmonic Echo": "谐波回响",
+  "Dawnshroud": "黎明斗篷",
+  "Navori Quickblades": "纳沃利迅刃",
+  "Serrated Dirk": "锯齿短匕",
+  "Doran's Blade": "多兰之刃",
+  "Doran's Shield": "多兰之盾",
+  "Doran's Ring": "多兰之戒",
+  "Vampiric Scepter": "吸血鬼节杖",
+  "B. F. Sword": "暴风大剑",
+  "Cloak of Agility": "灵巧披风",
+  "Kircheis Shard": "基舍的碎片",
+  "Zeal": "狂热",
+  "Rageblade": "鬼索的狂暴之刃",
+  "Quicksilver Sash": "水银饰带",
+  "Archangel's Staff": "大天使之杖",
+  "Serylda's Grudge": "赛瑞尔达的怨恨",
+  "Spirit Visage": "振奋盔甲",
+  "Executioner's Calling": "死刑宣告",
+  "Oblivion Orb": "湮灭宝珠",
+  "Hexdrinker": "饮魔刀",
+  "Guardian's Blade": "守护者法杖",
+  "Ravenous Hydra": "贪欲九头蛇",
+  "Statikk Shiv": "电刃",
+  "Phantom Dancer": "幻影之舞",
+  "Immortal Shieldbow": "不朽盾弓",
+  "Lord Dominik's Regards": "多米尼克领主的致意",
+  "Umbral Glaive": "暗影阔剑",
+  "Prowler's Claw": "潜行者之爪",
+  "Manamune": "魔宗",
+  "Moonstone Renewer": "月石再生器",
+  "Horizon Focus": "视界专注",
+  "Cosmic Drive": "宇宙驱动力",
+  "Demonic Embrace": "恶魔之拥",
+  "Nightharvester": "暗夜收割者",
+  "Everfrost": "永霜",
+  "Crown of the Shattered Queen": "破碎女王之冠",
+  "Shadowflame": "影焰",
+  "Turbo Chemtank": "涡轮炼金罐",
+  "Frostfire Gauntlet": "霜火护手",
+  "Jak'Sho, The Protean": "贾修，万变者",
+  "Axiom Arc": "公理圆弧",
+  "Bloodsong": "血歌",
+  "Solstice Sleigh": "至日雪橇",
+  "Zaz'Zak's Realmspike": "扎兹扎克的界刺",
+  "Dream Maker": "织梦者",
+  "Celestial Opposition": "天体对立",
+  "Elixir of Wrath": "愤怒合剂"
+ },
+ "runes": {
+  "Conqueror": "征服者",
+  "Demolish": "爆破",
+  "Second Wind": "复苏之风",
+  "Bone Plating": "骸骨镀层",
+  "Overgrowth": "过度生长",
+  "Sudden Impact": "猛然冲击",
+  "Cut Down": "砍倒",
+  "Electrocute": "电刑",
+  "Dark Harvest": "黑暗收割",
+  "Manaflow Band": "法力流系带",
+  "Transcendence": "超然",
+  "Scorch": "焦灼",
+  "Coup de Grace": "致命一击",
+  "Legend Bloodline": "传说：血统",
+  "Legend Alacrity": "传说：欢欣",
+  "Hextech Flashtraption": "海克斯闪现罗网",
+  "Nimbus Cloak": "灵光披风",
+  "First Strike": "先攻",
+  "Lethal Tempo": "致命节奏",
+  "Arcane Comet": "奥术彗星",
+  "Axiom Arcanist": "公理秘术",
+  "Absolute Focus": "绝对专注",
+  "Font of Life": "生命源泉",
+  "Guardian": "守护者",
+  "Celerity": "迅捷",
+  "Triumph": "凯旋",
+  "Gathering Storm": "风暴聚集",
+  "Last Stand": "坚毅不倒",
+  "Fleet Footwork": "迅捷步法",
+  "Revitalize": "复苏",
+  "Cheap Shot": "恶意中伤",
+  "Relentless Hunter": "无情猎手",
+  "Grasp of Undying": "不灭之握",
+  "Courage of the Colossus": "巨像的勇气",
+  "Perseverance": "坚韧",
+  "Hubris": "傲慢",
+  "Eyeball Collection": "眼球收集器",
+  "Empowerment": "强化",
+  "Brutal": "残暴",
+  "Ice Overlord": "冰霜霸主",
+  "Phase Rush": "相位猛冲",
+  "Unshakeable": "坚定不移",
+  "Legend: Tenacity": "传说：韧性",
+  "Nullifying Orb": "无效化法球",
+  "Botanist": "植物学家",
+  "Ixtali Seedjar": "以绪塔尔种子罐",
+  "Chain Assault": "连锁突袭",
+  "Empowered Attack": "强化攻击",
+  "Zombie Ward": "僵尸守卫",
+  "Battle Zeal": "战斗热诚",
+  "Aery": "召唤：艾黎",
+  "Tyrant": "暴君",
+  "Weakness": "弱点",
+  "Pathfinder": "寻路者",
+  "Storm Surge": "风暴狂涌",
+  "Taste of Blood": "血之滋味",
+  "Treasure Hunter": "寻宝猎人",
+  "Ingenious Hunter": "灵性猎手",
+  "Ultimate Hunter": "终极猎手",
+  "Conditioning": "调节",
+  "Shield Bash": "护盾猛击",
+  "Legend: Alacrity": "传说：欢欣",
+  "Legend: Bloodline": "传说：血统",
+  "Presence of Mind": "气定神闲",
+  "Overheal": "过量治疗",
+  "Magical Footwear": "神奇之鞋",
+  "Cosmic Insight": "星界洞悉",
+  "Biscuit Delivery": "饼干配送",
+  "Time Warp Tonic": "时间扭曲补药",
+  "Perfect Timing": "完美时机",
+  "Future's Market": "未来市场",
+  "Minion Dematerializer": "小兵去质器",
+  "Approach Velocity": "行近速率",
+  "Unsealed Spellbook": "启封的秘籍",
+  "Glacial Augment": "冰川增幅",
+  "Hail of Blades": "丛刃",
+  "Predator": "掠食者",
+  "Aftershock": "余震",
+  "Kleptomancy": "窃法之刃",
+  "Adaptive Force": "适应之力",
+  "Hunter - Vampirism": "猎人：吸血",
+  "Hunter - Genius": "猎人：天才",
+  "Hunter - Titan": "猎人：泰坦",
+  "Sweet Tooth": "甜食专家",
+  "Pack Hunter": "群猎"
+ },
+ "spells": {
+  "Flash": "闪现",
+  "Ignite": "引燃",
+  "Barrier": "屏障",
+  "Heal": "治疗术",
+  "Smite": "惩戒",
+  "Ghost": "疾跑",
+  "Exhaust": "虚弱",
+  "Teleport": "传送",
+  "Cleanse": "净化",
+  "Mark": "标记"
+ },
+ "abilities": {
+  "THE DARKIN BLADE": "暗裔利刃",
+  "UMBRAL DASH": "暗影冲决",
+  "INFERNAL CHAINS": "恶火束链",
+  "Orb of Deception": "欺诈宝珠",
+  "Fox-Fire": "妖异狐火",
+  "Charm": "魅惑妖术",
+  "FIVE POINT STRIKE": "我流奥义！寒影",
+  "SHURIKEN FLIP": "我流奥义！隼舞",
+  "TWILIGHT SHROUD": "我流奥义！霞阵",
+  "AVENGERANG": "去而复还",
+  "HEROIC SWING": "骄行荡寇",
+  "GOING ROGUE": "赴险夺人",
+  "Pulverize": "大地粉碎",
+  "Headbutt": "野蛮冲撞",
+  "Trample": "践踏",
+  "CUNNING SWEEP / SUNDERING SLAM": "暗袭 / 裂斩",
+  "LACERATE": "血戮",
+  "REPUDIATION": "铁令",
+  "Tantrum": "阿木木的愤怒",
+  "Bandage Toss": "绷带牵引",
+  "Despair": "绝望光环",
+  "Disintegrate": "碎裂之火",
+  "Incinerate": "焚烧",
+  "Molten Shield": "熔岩护盾",
+  "Volley": "万箭齐发",
+  "Ranger's Focus": "射手的专注",
+  "Hawkshot": "鹰击长空",
+  "BREATH OF LIGHT": "星河冲荡",
+  "SINGULARITY": "星芒凝汇",
+  "ASTRAL FLIGHT": "星穹流丽",
+  "TWOFOLD HEX": "飞去来咒",
+  "THE WEIRDING": "怪奇喷涌",
+  "ACROSS THE VEIL": "灵纱洞开",
+  "COSMIC BINDING": "星界束缚",
+  "CARETAKER’S SHRINE": "游神圣坛",
+  "MAGICAL JOURNEY": "神奇旅程",
+  "Rocket Grab": "机械飞爪",
+  "Power Fist": "能量铁拳",
+  "Overdrive": "过载运转",
+  "PILLAR OF FLAME": "烈焰之柱",
+  "CONFLAGRATION": "烈火燃烧",
+  "SEAR": "火焰烙印",
+  "Winter's Bite": "寒冬之咬",
+  "Unbreakable": "坚不可摧",
+  "Stand Behind Me": "挺身而出",
+  "PILTOVER PEACEMAKER": "和平使者",
+  "YORDLE SNAP TRAP": "约德尔诱捕器",
+  "90 CALIBER NET": "90口径绳网",
+  "Precision Protocol": "精准礼仪",
+  "Hookshot": "钩索",
+  "Tactical Sweep": "战术横扫",
+  "VORPAL SPIKES": "恐惧之刺",
+  "RUPTURE": "破裂",
+  "FERAL SCREAM": "野性尖叫",
+  "PHOSPHORUS BOMB": "磷光炸弹",
+  "GATLING GUN": "格林机枪",
+  "VALKYRIE": "瓦尔基里俯冲",
+  "DECIMATE": "大杀四方",
+  "APPREHEND": "无情铁手",
+  "CRIPPLING STRIKE": "致残打击",
+  "CRESCENT STRIKE": "新月打击",
+  "PALE CASCADE": "苍白之瀑",
+  "LUNAR RUSH": "月神冲刺",
+  "INFECTED BONESAW": "病毒屠刀",
+  "BLUNT FORCE TRAUMA": "大力行医",
+  "HEART ZAPPER": "电击疗法",
+  "SPINNING AXE": "旋转飞斧",
+  "BLOOD RUSH": "血性冲刺",
+  "STAND ASIDE": "开道利斧",
+  "TIMEWINDER": "时间卷曲器",
+  "PHASE DIVE": "相位俯冲",
+  "PARALLEL CONVERGENCE": "时光交错",
+  "HATE SPIKE": "憎恨之刺",
+  "WHIPLASH": "鞭笞",
+  "ALLURE": "引诱",
+  "Mystic Shot": "秘术射击",
+  "Arcane Shift": "奥术跃迁",
+  "Essence Flux": "精华跃动",
+  "BOUNTIFUL HARVEST": "五骨丰登",
+  "TERRIFY": "恐惧",
+  "REAP": "夜割",
+  "Lunge": "破空斩",
+  "Bladework": "夺命连刺",
+  "Riposte": "劳伦特心眼刀",
+  "Playful / Trickster": "古灵/精怪",
+  "Urchin Strike": "淘气打击",
+  "WINDS OF WAR": "战争罡风",
+  "SHIELD OF DURAND": "杜朗护盾",
+  "JUSTICE PUNCH": "正义冲拳",
+  "Judgment": "审判",
+  "Decisive Strike": "致命打击",
+  "Courage": "勇气",
+  "BOOMERANG THROW / BOULDER TOSS": "投掷回力标 / 投掷顽石",
+  "HYPER / WALLOP": "亢奋 /  痛殴",
+  "HOP / CRUNCH": "轻跳 / 猛踏",
+  "Barrel Roll": "滚动酒桶",
+  "Body Slam": "肉弹冲击",
+  "Drunken Rage": "醉酒狂暴",
+  "End of the Line": "穷途末路",
+  "Quickdraw": "快速拔枪",
+  "Smoke Screen": "烟幕弹",
+  "SNIP SNIP!": "快刀剪乱",
+  "SKIP 'N SLASH": "断续疾走",
+  "HALLOWED MIST": "丝缕缠流",
+  "RAMPAGE": "暴走",
+  "SPIRIT OF DREAD": "恐惧之灵",
+  "DEVASTATING CHARGE": "毁灭冲锋",
+  "H-28 G EVOLUTION TURRET": "H-28 G 进化炮台",
+  "HEXTECH MICRO-ROCKETS": "海克斯科技微型导弹",
+  "CH-2 ELECTRON STORM GRENADE": "CH-2电子风暴手雷",
+  "BLADESURGE": "利刃冲击",
+  "DEFIANT DANCE": "距破之舞",
+  "FLAWLESS DUET": "比翼双刃",
+  "Zephyr": "和风守护",
+  "Eye Of The Storm": "风暴之眼",
+  "Howling Gale": "飓风呼啸",
+  "Dragon Strike": "巨龙撞击",
+  "Demacian Standard": "德邦军旗",
+  "Golden Aegis": "黄金圣盾",
+  "Empower": "蓄力一击",
+  "Counter Strike": "反击风暴",
+  "Leap Strike": "跳斩",
+  "TO THE SKIES! / SHOCK BLAST": "苍穹之跃 / 电能震荡",
+  "LIGHTNING FIELD / HYPER CHARGE": "闪电领域 / 超能电荷",
+  "THUNDERING BLOW / ACCELERATION GATE": "雷霆一击 / 加速之门",
+  "Dancing Grenade": "曼舞手雷",
+  "Deadly Flourish": "致命华彩",
+  "Captive Audience": "万众倾倒",
+  "Switcheroo!": "枪炮交响曲！",
+  "Zap!": "震荡电磁波！",
+  "Flame Chompers!": "嚼火者手雷！",
+  "NTOFO STRIKES": "无双陀斧",
+  "PATH MAKER": "辟路先锋",
+  "FOOTWORK": "大步驰援",
+  "ICATHIAN RAIN": "艾卡西亚暴雨",
+  "SUPERCHARGE": "极限超载",
+  "VOID SEEKER": "虚空索敌",
+  "REND": "撕裂",
+  "PIERCE": "穿刺",
+  "SENTINEL": "哨兵",
+  "INNER FLAME": "心灵烈焰",
+  "INSPIRE": "鼓舞",
+  "FOCUSED RESOLVE": "坚定不移",
+  "FORCE PULSE": "能量脉冲",
+  "NETHER BLADE": "虚空之刃",
+  "NULL SPHERE": "虚无法球",
+  "BOUNCING BLADE": "弹射之刃",
+  "SHUNPO": "瞬步",
+  "PREPARATION": "伺机待发",
+  "STARFIRE SPELLBLADE": "星火符刃",
+  "RADIANT BLAST": "耀焰冲击",
+  "CELESTIAL BLESSING": "星界恩典",
+  "REAPING SLASH": "巨镰横扫",
+  "BLADE'S REACH": "利刃纵贯",
+  "SHADOW STEP": "掠影步",
+  "THUNDERING SHURIKEN": "奥义！千鸟",
+  "ELECTRICAL SURGE": "奥义！电刃",
+  "LIGHTNING RUSH": "奥义！雷铠",
+  "TASTE THEIR FEAR": "品尝恐惧",
+  "VOID SPIKE": "虚空突刺",
+  "LEAP": "跃击",
+  "DANCE OF ARROWS": "乱箭之舞",
+  "WOLF'S FRENZY": "狼灵狂热",
+  "MOUNTING DREAD": "横生惧意",
+  "BIO-ARCANE BARRAGE": "生化弹幕",
+  "CAUSTIC SPITTLE": "腐蚀唾液",
+  "VOID OOZE": "虚空淤泥",
+  "Sonic Wave / Resonating Strike": "天音波/回音击",
+  "Safeguard / Iron Will": "金钟罩/铁布衫",
+  "Tempest / Cripple": "天雷破/摧筋断骨",
+  "ECLIPSE": "日蚀",
+  "ZENITH BLADE": "天顶之刃",
+  "SHIELD OF DAYBREAK": "破晓之盾",
+  "BLOOMING BLOWS": "飞花挞",
+  "WATCH OUT! EEP!": "惊惶木",
+  "SWIRLSEED": "流涡种",
+  "ICE SHARD": "寒冰碎片",
+  "RING OF FROST": "冰霜之环",
+  "GLACIAL PATH": "冰川之径",
+  "PIERCING LIGHT": "透体圣光",
+  "RELENTLESS PURSUIT": "冷酷追击",
+  "ARDENT BLAZE": "热诚烈弹",
+  "HELP, PIX!": "帮忙，皮克斯！",
+  "WHIMSY": "奇思妙想",
+  "GLITTERLANCE": "闪耀长枪",
+  "Lucent Singularity": "透光奇点",
+  "Light Binding": "光之束缚",
+  "Prismatic Barrier": "曲光屏障",
+  "Seismic Shard": "地震碎片",
+  "Ground Slam": "大地震颤",
+  "Thunderclap": "雷霆拍击",
+  "BRAMBLE SMASH": "荆棘重击",
+  "TWISTED ADVANCE": "扭曲突刺",
+  "SAPLING TOSS": "树苗投掷",
+  "Alpha Strike": "阿尔法突袭",
+  "Wuju Style": "无极剑道",
+  "Meditate": "冥想",
+  "SOLAR SNARE": "阳炎涡旋",
+  "REBUTTAL": "灵魂折镜",
+  "WARM HUGS": "融融情谊",
+  "COZY CAMPFIRE": "依依不舍",
+  "ULTRA MEGA FIRE KICK": "火爆飞踢",
+  "Double Up": "一箭双雕",
+  "Strut": "大步流星",
+  "Make It Rain": "枪林弹雨",
+  "OBLITERATE": "破灭之锤",
+  "DEATH'S GRASP": "断魂一扼",
+  "INDESTRUCTIBLE": "不坏之身",
+  "DARK BINDING": "暗之禁锢",
+  "TORMENTED SHADOW": "折磨之影",
+  "BLACK SHIELD": "黑暗之盾",
+  "Ebb and Flow": "冲击之潮",
+  "Tidecaller's Blessing": "唤潮之佑",
+  "Aqua Prison": "碧波之牢",
+  "Siphoning Strike": "汲魂痛击",
+  "Wither": "枯萎",
+  "Spirit Fire": "灵魂烈焰",
+  "DREDGE LINE": "疏通航道",
+  "TITAN'S WRATH": "泰坦之怒",
+  "RIPTIDE": "暗流涌动",
+  "JAVELIN TOSS / TAKEDOWN": "标枪投掷 / 推倒",
+  "PRIMAL SURGE / SWIPE": "野性奔腾 / 挥击",
+  "BUSHWHACK / POUNCE": "丛林伏击 / 猛扑",
+  "FORMLESS BLADE": "游刃万变",
+  "SLIPSTREAM": "纵情逐流",
+  "JUBILANT VEIL": "轻纱飞漾",
+  "DUSKBRINGER": "梦魇之径",
+  "UNSPEAKABLE HORROR": "无言恐惧",
+  "SHROUD OF DARKNESS": "黑暗庇护",
+  "CONSUME": "吞噬",
+  "SNOWBALL BARRAGE": "雪球飞射",
+  "BIGGEST SNOWBALL EVER!": "史上最大雪球！",
+  "Undertow": "逆流投掷",
+  "Reckless Swing": "鲁莽挥击",
+  "Command: Attack": "指令：攻击",
+  "Command: Dissonance": "指令：杂音",
+  "Command: Protect": "指令：防卫",
+  "BELLOWS BREATH": "风箱炎息",
+  "VOLCANIC RUPTURE": "火山突堑",
+  "SEARING CHARGE": "炽烈冲锋",
+  "COMET SPEAR": "贯星长枪",
+  "SHIELD VAULT": "斗盾跃击",
+  "AEGIS ASSAULT": "神佑枪阵",
+  "HAMMER SHOCK": "圣锤猛击",
+  "HEROIC CHARGE": "英勇冲锋",
+  "STEADFAST PRESENCE": "坚定风采",
+  "BONE SKEWER": "透骨尖钉",
+  "PHANTOM UNDERTOW": "魅影浪洄",
+  "GHOSTWATER DIVE": "幽潭潜行",
+  "GRAND ENTRANCE": "盛大登场",
+  "BATTLE DANCE": "轻舞成双",
+  "GLEAMING QUILL": "微光飞翎",
+  "POWERBALL": "动力冲刺",
+  "FRENZYING TAUNT": "狂乱嘲讽",
+  "DEFENSIVE BALL CURL": "尖刺防御",
+  "FERROMANCY: CRASHDOWN": "驭铁术：轰落",
+  "FULL TILT": "全速冲锋",
+  "SHATTERING STRIKE": "裂阵",
+  "CULL THE MEEK": "巨鳄狂袭",
+  "SLICE AND DICE": "横冲直撞",
+  "RUTHLESS PREDATOR": "冷酷捕猎",
+  "SAVAGERY": "残忍无情",
+  "BOLA STRIKE": "套索打击",
+  "BATTLE ROAR": "战争咆哮",
+  "BROKEN WINGS": "折翼之舞",
+  "VALOR": "勇往直前",
+  "KI BURST": "震魂怒吼",
+  "FLAMESPITTER": "纵火盛宴",
+  "ELECTRO HARPOON": "电子鱼叉",
+  "SCRAP SHIELD": "破碎护盾",
+  "OVERLOAD": "超负荷",
+  "SPELL FLUX": "法术涌动",
+  "RUNE PRISON": "符文禁锢",
+  "FLAIR": "交火",
+  "WILD RUSH": "狂飙",
+  "BLADE WHIRL": "锋旋",
+  "PIERCING DARKNESS": "黑暗洞灭",
+  "LAST EMBRACE": "无尽厮守",
+  "CURSE OF THE BLACK MIST": "黑雾咒附",
+  "HIGH NOTE": "清籁穿云",
+  "SURROUND SOUND": "聚和心声",
+  "BEAT DROP": "增幅节拍",
+  "KNUCKLE DOWN": "屈人之威",
+  "HAYMAKER": "蓄意轰拳",
+  "FACEBREAKER": "强手裂颅",
+  "TWILIGHT ASSAULT": "奥义！暮临",
+  "SHADOW DASH": "奥义！影缚",
+  "SPIRIT'S REFUGE": "奥义！魂佑",
+  "Poison Trail": "剧毒踪迹",
+  "Fling": "过肩摔",
+  "Mega Adhesive": "强力粘胶",
+  "DECIMATING SMASH": "残虐猛击",
+  "SOUL FURNACE": "灵魂熔炉",
+  "ROAR OF THE SLAYER": "杀手怒吼",
+  "BOOMERANG BLADE": "回旋之刃",
+  "RICOCHET": "弹射",
+  "SPELL SHIELD": "法术护盾",
+  "SHATTERED EARTH/UPHEAVAL": "撼地 / 擎天",
+  "SEISMIC BASTION": "震地壁垒",
+  "IXTAL'S IMPACT": "以绪塔尔冲击",
+  "SUPER SCORCHER BREATH": "超级灼热龙息",
+  "ACHOOO!": "阿嚏！",
+  "FLAP, FLAP, FLAP": "扑棱，扑棱，扑棱！",
+  "Aria of Perseverance": "坚毅咏叹调",
+  "Hymn of Valor": "英勇赞美诗",
+  "Song of Celerity": "迅捷奏鸣曲",
+  "Astral Infusion": "星之灌注",
+  "Starcall": "流星坠落",
+  "Equinox": "星体结界",
+  "Death's Hand": "解脱之触",
+  "Vision of Empire": "帝国视界",
+  "Nevermove": "永不复行",
+  "DARK SPHERE": "暗黑法球",
+  "FORCE OF WILL": "驱使念力",
+  "SCATTER THE WEAK": "弱者退散",
+  "THREADED VOLLEY": "石穿",
+  "UNRAVELED EARTH": "撒石阵",
+  "SEISMIC SHOVE": "岩突",
+  "RAKE": "斩草除根",
+  "NOXIAN DIPLOMACY": "诺克萨斯式外交",
+  "ASSASSIN'S PATH": "刺客之道",
+  "BLINDING DART": "致盲吹箭",
+  "MOVE QUICK": "小莫快跑",
+  "DEATH SENTENCE": "死亡判决",
+  "FLAY": "厄运钟摆",
+  "DARK PASSAGE": "魂引之灯",
+  "EXPLOSIVE CHARGE": "爆炸火花",
+  "RAPID FIRE": "急速射击",
+  "ROCKET JUMP": "火箭跳跃",
+  "Bloodlust": "嗜血杀戮",
+  "Spinning Slash": "旋风斩",
+  "Mocking Shout": "蔑视",
+  "Wild Cards": "万能牌",
+  "Pick a Card": "选牌",
+  "Stacked Deck": "卡牌骗术",
+  "CONTAMINATE": "毒性爆发",
+  "AMBUSH": "埋伏",
+  "VENOM CASK": "剧毒之桶",
+  "PURGE": "净除",
+  "DISDAIN": "鄙弃",
+  "CORROSIVE CHARGE": "腐蚀电荷",
+  "Piercing Arrow": "穿刺之箭",
+  "Blighted Quiver": "枯萎箭袋",
+  "Hail of Arrows": "恶灵箭雨",
+  "Tumble": "闪避突袭",
+  "Silver Bolts": "圣银弩箭",
+  "Condemn": "恶魔审判",
+  "BALEFUL STRIKE": "黑暗祭祀",
+  "DARK MATTER": "黑暗物质",
+  "EVENT HORIZON": "扭曲空间",
+  "PLASMA FISSION": "等离子裂变",
+  "VOID RIFT": "虚空裂隙",
+  "TECTONIC DISRUPTION": "构造分解",
+  "MISTRAL BOLT": "寒心波云",
+  "PERSONAL SPACE": "生人勿近",
+  "LOOMING DARKNESS": "溟濛渐染",
+  "Vault Breaker": "强能冲拳",
+  "Relentless Force": "透体之劲",
+  "BLAST SHIELD": "爆裂护盾",
+  "BLADE OF THE RUINED KING": "破败王剑",
+  "HARROWED PATH": "茫茫焦土",
+  "SPECTRAL MAW": "千载幽咽",
+  "HEXTECH RAY": "海克斯射线",
+  "SIPHON POWER": "虹吸能量",
+  "GRAVITY FIELD": "重力场",
+  "TRANSFUSION": "鲜血转换",
+  "TIDES OF BLOOD": "血之潮汐",
+  "SANGUINE POOL": "血红之池",
+  "FRENZIED MAUL": "暴怒撕咬",
+  "THUNDERING SMASH": "擂首一击",
+  "SKY SPLITTER": "霹天雳地",
+  "BLOODHUNT": "鲜血追猎",
+  "JAWS OF THE BEAST": "野兽之口",
+  "PRIMAL HOWL": "远祖嗥叫",
+  "NIMBUS STRIKE": "腾云突击",
+  "WARRIOR TRICKSTER": "真假猴王",
+  "BLADECALLER": "倒钩",
+  "DEADLY PLUMAGE": "致死羽衣",
+  "DOUBLE DAGGERS": "双刃",
+  "Wind Becomes Lightning": "风斩电刺",
+  "Audacious Charge": "无畏冲锋",
+  "Three Talon Strike": "三重爪击",
+  "Steel Tempest": "斩钢闪",
+  "Sweeping Blade": "踏前斩",
+  "Wind Wall": "风之障壁",
+  "MORTAL STEEL": "错玉切",
+  "SOUL UNBOUND": "破障之锋",
+  "SPIRIT CLEAVE": "凛神斩",
+  "CULTIVATION OF SPIRIT": "灵蕴拳",
+  "ARC OF JUDGMENT | ARC OF RUIN": "善恶轮 | 寂灭掌",
+  "KANMEI'S STEPS | UNTOUCHABLE SHADOW": "明踪步 | 夜影翻",
+  "PROWLING PROJECTILE": "摸鱼飞弹",
+  "ZOOMIES": "旺盛精力",
+  "YOU AND ME!": "悠米出动！",
+  "Razor Shuriken": "影奥义！诸刃",
+  "Shadow Slash": "影奥义！鬼斩",
+  "Living Shadow": "影奥义！分身",
+  "BURST FIRE": "电火迸射",
+  "SPARK SURGE": "灿丽花火",
+  "ULTRASHOCK LASER": "强穿激光",
+  "Bouncing Bomb": "弹跳炸弹",
+  "Hexplosive Minefield": "海克斯爆破雷区",
+  "Satchel Charge": "定点爆破",
+  "TIME BOMB": "定时炸弹",
+  "PADDLE STAR!": "飞星乱入！",
+  "SLEEPY TROUBLE BUBBLE": "催眠气泡",
+  "SPELL THIEF": "窃法巧手",
+  "GRASPING ROOTS": "缠绕之根",
+  "DEADLY SPINES": "致命棘刺",
+  "RAMPANT GROWTH": "狂野生长",
+  "RENDING WAVE": "撕裂波",
+  "RADIANT VOLLEY": "光辉齐射",
+  "MEMORY SURGE": "记忆涌动",
+  "THREADS OF HOMECOMING": "归乡之线",
+  "JOURNEY TO NOWHERE": "无往之旅",
+  "GUERILLA WARFARE": "游击战",
+  "GOLDEN STAFF": "黄金法杖",
+  "TEMPORAL MIRAGE": "时空幻影",
+  "TWISTED TIMEFLOW": "扭曲时光流",
+  "Vicious Strikes": "凶猛打击",
+  "Flame Breath": "烈焰吐息",
+  "Burnout": "灼烧",
+  "Twin Bite": "双重撕咬",
+  "Rending Wave": "撕裂波",
+  "Radiant Volley": "光辉齐射",
+  "Memory Surge": "记忆涌动",
+  "Threads of Homecoming": "归乡之线",
+  "Journey to Nowhere": "无往之旅",
+  "Guerilla Warfare": "游击战",
+  "Golden Staff": "黄金法杖",
+  "Temporal Mirage": "时空幻影",
+  "Twisted Timeflow": "扭曲时光流"
+ }
+}

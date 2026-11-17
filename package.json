@@ -1,0 +1,12 @@
+{
+  "name": "lolm-builds",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "英雄联盟手游 实时出装/天赋查询站",
+  "scripts": {
+    "start": "node server.mjs",
+    "refresh": "node refresh.mjs",
+    "refresh:test": "node refresh.mjs --only ashe,annie --limit 2"
+  }
+}
