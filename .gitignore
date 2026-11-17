@@ -2,6 +2,7 @@
 node_modules/
 .edge-*/
 .chrome-*/
+.tools/
 *.log
 
 # 抓取产物（由 refresh.mjs 重新生成）
